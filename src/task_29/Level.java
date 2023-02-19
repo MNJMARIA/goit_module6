@@ -1,4 +1,4 @@
-package task_16;
+package task_29;
 
 public class Level {
     private int width;
@@ -16,6 +16,4 @@ public class Level {
     public int getHeight() {
         return height;
     }
-
-
 }

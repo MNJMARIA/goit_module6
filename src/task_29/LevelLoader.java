@@ -1,7 +1,7 @@
-package task_16;
+package task_29;
 
 public class LevelLoader {
-    public void load(Level level) throws LevelTooBigException{
+    public void load(Level level) throws LevelTooBigException {
 
         if (level.getHeight() * level.getWidth() > 100000)
         {
